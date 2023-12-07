@@ -23,4 +23,8 @@ function caseInSwitch(val) {
         answer = "delta";
         break;
     }
+  // Altere apenas o código acima desta linha
+  return answer;
 }
+
+caseInSwitch(1);
