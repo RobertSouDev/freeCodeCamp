@@ -19,7 +19,7 @@ Nesse desafio, você usará o método Object.freeze para prevenir a mudança de 
 
 function freezeObj() {
     const MATH_CONSTANTS = {
-      PI: 3.140
+      PI: 3.14
     };
     
     
