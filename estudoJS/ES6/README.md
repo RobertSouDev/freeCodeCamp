@@ -1,6 +1,9 @@
 <h1 align="center"> QUESTÔES ES6 </h1>
 
 ![ES6 logo](../img/log.png)
+
+
+
 - Impedir a modificação de um objeto
 - Escrever arrow functions com parâmetros
 - Definir um valor padrão para o parâmetro de uma função
@@ -10,3 +13,4 @@
 - Usar atribuição de desestruturação para atribuir variáveis de objetos
  - Usar atribuição de desestruturação para atribuir variáveis de objetos aninhados
  - Usar atribuição de desestruturação para atribuir variáveis a partir de arrays
+ - Desestruturação por meio de elementos com rest
