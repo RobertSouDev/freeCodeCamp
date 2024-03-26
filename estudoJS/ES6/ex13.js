@@ -13,3 +13,6 @@ As variáveis a e b pegam o primeiro e o segundo valores do array. Depois disso,
 
 Use uma atribuição de desestruturação com a sintaxe do rest para simular o comportamento de Array.prototype.slice(). removeFirstTwo() deve retornar um sub-array do array original list com os dois primeiros elementos omitidos.
 */
+
+
+
