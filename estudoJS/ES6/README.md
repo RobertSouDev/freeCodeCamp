@@ -13,4 +13,5 @@
 - Usar atribuição de desestruturação para atribuir variáveis de objetos
  - Usar atribuição de desestruturação para atribuir variáveis de objetos aninhados
  - Usar atribuição de desestruturação para atribuir variáveis a partir de arrays
- - Desestruturação por meio de elementos com rest
+ -  14 Desestruturação por meio de elementos com rest
+ Usar atribuição de desestruturação para passar um objeto como parâmetro de uma função
