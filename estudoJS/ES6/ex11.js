@@ -25,7 +25,7 @@ const LOCAL_FORECAST = {
     tomorrow: { low: 68, high: 80 }
   };
   
-  // Altere apenas o código abaixo desta linha
+  // Altere apenas o código abaixo desta linha9
   
   
   const {today:{low:lowToday , high: highToday}} = LOCAL_FORECAST
