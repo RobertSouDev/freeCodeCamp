@@ -32,7 +32,7 @@ const stats = {
   // Altere apenas o código acima desta linha
 
   //resposta 
-    const stats = {
+    const stsats = {
       max: 56.78,
       standard_deviation: 4.34,
       median: 34.54,
